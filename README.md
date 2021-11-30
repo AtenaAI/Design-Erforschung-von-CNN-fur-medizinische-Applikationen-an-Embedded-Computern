@@ -10,6 +10,6 @@ In the folder "MassiveCNN Code", there are jupyter notebooks containing python c
 
 The folder "Specific Purpose Code" contains code to test the models, to check the inference latency, and to convert the h5 models into TF Lite (float32 and int8).
 
-The Folder "Int8 Modelle" contains a part of the models resulted from the code.
+The folders "Int8 Modelle" and "Int8 Edge Modelle" contain a part of the models resulted from the code.
 
 This work is part of my bachelor thesis in biomedical engineering at the Hochschule Bremerhaven in cooperation with the University Bremen.
